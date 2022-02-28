@@ -1,0 +1,40 @@
+#
+#       AUTHOR - Raman Sailopal
+#
+version: "2"
+services:
+ yottadb:
+   hostname: yottadb
+   container_name: yottadb
+   image: docker.io/ramb0/yotta-mgweb:latest 
+   volumes:
+     - "$PWD/entrypoint:/home/yotta"
+     - "$PWD/mapped:/opt/mgweb/mapped"
+   networks:
+      - yottanet
+   ports:
+      - 8080:8080
+   mem_limit: 1G
+   entrypoint: [ "/bin/bash", "-c", "/home/yotta/entrypoint.sh" ]
+
+
+ node:
+   image: docker.io/ramb0/reactjs
+   hostname: node
+   container_name: node
+   ports:
+      - 9966:3000
+   volumes:
+     - "$PWD/maps:/home/maps2"
+     - "$PWD/reactenter:/home/reactapp"
+   entrypoint: [ "/bin/bash", "-c", "/home/reactapp/entrypoint.sh" ]
+   environment:
+      - apiadd=$apiadd
+   networks:
+      - yottanet
+
+
+networks:
+    yottanet:
+volumes:
+    yottavol:

@@ -1,0 +1,148 @@
+%GO Global Output Utility
+GT.M 25-FEB-2022 12:44:11
+^STADIUMS("A.F.C. Bournemouth",50.735277)
+-1.83833
+^STADIUMS("Arsenal ",51.555)
+-0.108611
+^STADIUMS("Aston Villa ",52.509167)
+-1.884722
+^STADIUMS("Barnsley ",53.552222)
+-1.4675
+^STADIUMS("Birmingham City ",52.475703)
+-1.868189
+^STADIUMS("Blackburn Rovers ",53.728611)
+-2.489167
+^STADIUMS("Blackpool ",53.804722)
+-3.048056
+^STADIUMS("Bolton Wanderers ",53.580556)
+-2.535556
+^STADIUMS("Bradford City",53.804222)
+-1.759022
+^STADIUMS("Brentford",51.488183)
+-0.302639
+^STADIUMS("Brighton & Hove Albion ",50.861822)
+-0.083278
+^STADIUMS("Bristol City ",51.44)
+-2.620278
+^STADIUMS("Burnley ",53.789167)
+-2.230278
+^STADIUMS("Bury F.C.",53.5805055)
+-2.294822
+^STADIUMS("Cardiff City ",51.472778)
+-3.203056
+^STADIUMS("Charlton Athletic",51.486389)
+0.036389
+^STADIUMS("Chelsea ",51.481667)
+-0.191111
+^STADIUMS("Colchester United",51.923394)
+0.897703
+^STADIUMS("Coventry City ",52.448056)
+-1.495556
+^STADIUMS("Crewe Alexandra",53.0874194)
+-2.4357472
+^STADIUMS("Crystal Palace ",51.398333)
+-0.085556
+^STADIUMS("Derby County ",52.915)
+-1.447222
+^STADIUMS("Doncaster Rovers ",53.509722)
+-1.113889
+^STADIUMS("Everton ",53.438889)
+-2.966389
+^STADIUMS("Fulham ",51.475)
+-0.221667
+^STADIUMS("Gillingham F.C.",51.38425)
+0.5607527
+^STADIUMS("Grimsby Town",53.570225)
+-0.046497
+^STADIUMS("Huddersfield Town A.F.C.",53.65416)
+-1.76833
+^STADIUMS("Hull City ",53.746111)
+-0.367778
+^STADIUMS("Ipswich Town ",52.055061)
+1.144831
+^STADIUMS("Leeds United ",53.777778)
+-1.572222
+^STADIUMS("Leicester City ",52.620278)
+-1.142222
+^STADIUMS("Liverpool ",53.430819)
+-2.960828
+^STADIUMS("Luton Town",51.884167)
+-0.431667
+^STADIUMS("Manchester City ",53.482989)
+-2.200292
+^STADIUMS("Manchester United ",53.463056)
+-2.291389
+^STADIUMS("Middlesbrough ",54.578333)
+-1.216944
+^STADIUMS("Millwall ",51.485953)
+-0.05095
+^STADIUMS("Newcastle United ",54.975556)
+-1.621667
+^STADIUMS("Norwich City ",52.622128)
+1.308653
+^STADIUMS("Nottingham Forest ",52.94)
+-1.132778
+^STADIUMS("Notts County F.C.",52.9425)
+-1.137222
+^STADIUMS("Oldham Athletic",53.555278)
+-2.128611
+^STADIUMS("Oxford United",51.716419)
+-1.208067
+^STADIUMS("Peterborough United ",52.564697)
+-0.240406
+^STADIUMS("Plymouth Argyle",50.38805)
+-4.150833
+^STADIUMS("Port Vale F.C.",53.049722)
+-2.1925
+^STADIUMS("Portsmouth ",50.796389)
+-1.063889
+^STADIUMS("Preston North End ",53.77222)
+-2.68805
+^STADIUMS("Queens Park Rangers ",51.509167)
+-0.232222
+^STADIUMS("Reading ",51.422222)
+-0.982778
+^STADIUMS("Rotherham United",53.4279)
+-1.362
+^STADIUMS("Scunthorpe United",53.586725)
+-0.695266
+^STADIUMS("Sheffield United",53.370278)
+-1.470833
+^STADIUMS("Sheffield Wednesday",53.411389)
+-1.500556
+^STADIUMS("Southampton ",50.905833)
+-1.391111
+^STADIUMS("Southend United",51.549016)
+0.7015583
+^STADIUMS("Stockport County",53.39972)
+-2.16638
+^STADIUMS("Stoke City ",52.988333)
+-2.175556
+^STADIUMS("Sunderland ",54.9144)
+-1.3882
+^STADIUMS("Swansea City ",51.6422)
+-3.9351
+^STADIUMS("Swindon Town",51.564444)
+-1.770556
+^STADIUMS("Tottenham Hotspur ",51.603333)
+-0.065833
+^STADIUMS("Tranmere Rovers",53.3736111)
+-3.0325
+^STADIUMS("Walsall F.C.",52.565433)
+-1.9907055
+^STADIUMS("Watford ",51.649836)
+-0.401486
+^STADIUMS("West Bromwich Albion ",52.509167)
+-1.963889
+^STADIUMS("West Ham United ",51.531944)
+0.039444
+^STADIUMS("Wigan Athletic ",53.547778)
+-2.653889
+^STADIUMS("Wimbledon",51.398333)
+-0.085556
+^STADIUMS("Wolverhampton Wanderers ",52.590278)
+-2.130278
+^STADIUMS("Yeovil Town",50.95027)
+-2.67488
+
+

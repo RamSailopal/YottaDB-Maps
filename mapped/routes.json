@@ -1,0 +1,7 @@
+[
+      {
+        "uri": "/api/cords",
+        "method": "GET",
+        "handler": "cords^myRestAPIs"
+      },
+]
