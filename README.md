@@ -24,7 +24,7 @@ The demo uses the co-ordinates of the football grounds in England as a data set 
 3) Open a new browser tab and add **gitpod.io/#https://github.com/RamSailopal/YottaDB-Maps** to the address - This will create a new Gitpod cloud instance.
 4) Let the containers fully load
 5) Click on the ports at the bottom right of the window
-6) Click the globe icon next to 9966 to view the front-end and the globe icon next to 8080 for the backend and then add **/api/cords** to the end.
+6) Click the globe icon next to **9966** to view the front-end and the globe icon next to **8080** for the backend and then add **/api/cords** to the end.
 
 # Local Deployment
 
