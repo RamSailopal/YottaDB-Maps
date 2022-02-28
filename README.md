@@ -1,6 +1,6 @@
 # YottaDB-Maps
 
- ![Alt text](yotta-maps.webp?raw=true?raw=true "Maps view")
+ ![Alt text](yottadb-maps.webp?raw=true?raw=true "Maps view")
 
 A demo of M based globals (YottaDB/Intersystems/GTM) as a co-ordinate store that can then be used to map points of interest.
 
