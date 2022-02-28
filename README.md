@@ -2,7 +2,7 @@
 
 A demo of M based globals (YottaDB/Intersystems/GTM) as a co-ordinate store that can then be used to map points of interest.
 
-The demo uses the co-ordinates of the football grounds in England as a data set and then exposes this data via a REST API to be consued and then utilised to display the locatiosn of the grounds on a map
+The demo uses the co-ordinates of the football grounds in England as a data set and then exposes this data via a REST API to be consumed and then utilised to display the locations of the grounds on a map:
 
      ^STADIUMS("A.F.C. Bournemouth",50.735277)=-1.83833
      ^STADIUMS("Arsenal ",51.555)="-0.108611"
@@ -14,4 +14,9 @@ The demo uses the co-ordinates of the football grounds in England as a data set 
      ^STADIUMS("Bolton Wanderers ",53.580556)=-2.535556
      ^STADIUMS("Bradford City",53.804222)=-1.759022
      ^STADIUMS("Brentford",51.488183)="-0.302639"
+
+**React-leaflet** is used in the "front-end" and **mg-web/YottaDB** as the "back-end"
+
+
+
 
