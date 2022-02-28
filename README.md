@@ -42,7 +42,7 @@ Back-end - http://ipaddress-of-docker-server:8080/api/cords
 
 **React-leaflet** - https://react-leaflet.js.org/
 
-**YottaDB** - https://yotaadb.com
+**YottaDB** - https://yottadb.com
 
 **mg-web** - https://github.com/robtweed/mgweb-server
 
