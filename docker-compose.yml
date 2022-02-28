@@ -30,6 +30,7 @@ services:
    entrypoint: [ "/bin/bash", "-c", "/home/reactapp/entrypoint.sh" ]
    environment:
       - apiadd=$apiadd
+      - HOST=$HOST
    networks:
       - yottanet
 
