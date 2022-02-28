@@ -5,7 +5,7 @@ import axios from 'axios';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 const position=[51.505, -0.09]
 let jsonstr= async() => {
-                var x= await axios({url: process.env.REACT_APP_APIADD + '/api/cords',headers: {'origin': '*'}});
+                var x= await axios({url: process.env.REACT_APP_APIADD + '/api/cords'});
                   return x.data;
 
 }
