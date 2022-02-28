@@ -2,5 +2,5 @@ tasks:
   - init: |
       echo 'TODO: build project'
     command: |
-      export HOST="https://9966-${GITPOD_WORKSPACE_URL##https://}" && export apiadd="https://8080-${GITPOD_WORKSPACE_URL##https://}/" && docker-compose up
+      export apiadd="https://8080-${GITPOD_WORKSPACE_URL##https://}" && docker-compose up
 
