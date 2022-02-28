@@ -2,5 +2,5 @@ tasks:
   - init: |
       echo 'TODO: build project'
     command: |
-      export glbviewadd="https://8080-${GITPOD_WORKSPACE_URL##https://}/" && docker-compose up
+      export apiadd="https://8080-${GITPOD_WORKSPACE_URL##https://}/" && docker-compose up
 
