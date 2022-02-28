@@ -29,7 +29,7 @@ services:
      - "$PWD/reactenter:/home/reactapp"
    entrypoint: [ "/bin/bash", "-c", "/home/reactapp/entrypoint.sh" ]
    environment:
-      - apiadd=$apiadd
+      - REACT_APP_APIADD=$apiadd
       - HOST=$HOST
    networks:
       - yottanet
