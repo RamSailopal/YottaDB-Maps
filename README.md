@@ -17,6 +17,21 @@ The demo uses the co-ordinates of the football grounds in England as a data set 
 
 **React-leaflet** is used in the "front-end" and **mg-web/YottaDB** as the "back-end"
 
+# Gitpod deployyment
+
+1) Create a free/paid Gitpod account - https://www.gitpod.io/
+2) Log into the account
+3) Open a new browser tab and add **gitpod.io/#https://github.com/RamSailopal/YottaDB-Maps** to the address - This will create a new Gitpod cloud instance.
+4) Let the containers fully load
+5) Click on the ports at the bottom right of the window
+6) Click the globe icon next to 9966 to view the front-end and the globe icon next to 8080 for the backend.
+
+# References
+
+**React-leaflet** - https://react-leaflet.js.org/
+**YottaDB** - https://yotaadb.com
+**mg-web** - https://github.com/robtweed/mgweb-server
+
 
 
 
