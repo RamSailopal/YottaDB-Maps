@@ -27,6 +27,20 @@ The demo uses the co-ordinates of the football grounds in England as a data set 
 4) Let the containers fully load
 5) Click on the **remote explorer** icon on the left hand panel (looking like a monitor)
 6) Click the globe icon next to **9966** to view the front-end and the globe icon next to **8080** for the backend and then add **/api/cords** to the end.
+7) Due to blocked cross origin requests, A CORS browser add-on also needs to be added and enabled
+   https://addons.mozilla.org/en-GB/firefox/addon/cors-everywhere/
+   
+   https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino?hl=en
+   
+   With the firefox addon, ensure that the plugin is enabled in the browser header as in the image below:
+   
+   ![Alt text](https://github.com/RamSailopal/Fileman-d3/raw/main/corsenabled.png?raw=true?raw=true "CORS enabled")
+   
+   This contrasts to when CORS is disabled as in the image below:
+   
+   ![Alt text](https://github.com/RamSailopal/Fileman-d3/raw/main/corsdisabled.png?raw=true?raw=true "CORS disabled") 
+   
+   Once the CORS plugin is enabled, the map of the English football grounds will appear.
 
 # Local Deployment
 
