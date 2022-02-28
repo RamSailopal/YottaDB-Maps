@@ -1,5 +1,7 @@
 # YottaDB-Maps
 
+ ![Alt text](yotta-maps.webp?raw=true?raw=true "Maps view")
+
 A demo of M based globals (YottaDB/Intersystems/GTM) as a co-ordinate store that can then be used to map points of interest.
 
 The demo uses the co-ordinates of the football grounds in England as a data set and then exposes this data via a REST API to be consumed and then utilised to display the locations of the grounds on a map:
@@ -23,7 +25,7 @@ The demo uses the co-ordinates of the football grounds in England as a data set 
 2) Log into the account
 3) Open a new browser tab and add **gitpod.io/#https://github.com/RamSailopal/YottaDB-Maps** to the address - This will create a new Gitpod cloud instance.
 4) Let the containers fully load
-5) Click on the ports at the bottom right of the window
+5) Click on the **remote explorer** icon on the left hand panel (looking like a monitor)
 6) Click the globe icon next to **9966** to view the front-end and the globe icon next to **8080** for the backend and then add **/api/cords** to the end.
 
 # Local Deployment
