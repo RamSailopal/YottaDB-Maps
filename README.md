@@ -21,6 +21,8 @@ The demo uses the co-ordinates of the football grounds in England as a data set 
 
 # Gitpod deployment
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/YottaDB-Maps)
+
 1) Create a free/paid Gitpod account - https://www.gitpod.io/
 2) Log into the account
 3) Open a new browser tab and add **gitpod.io/#https://github.com/RamSailopal/YottaDB-Maps** to the address - This will create a new Gitpod cloud instance.
